@@ -7,6 +7,7 @@
  */
 
 import java.io.*;
+HALLO MATHIEU
 public class Eindopdracht
 {
     public static GebruikGB_DotDisplay dotDisplay;
